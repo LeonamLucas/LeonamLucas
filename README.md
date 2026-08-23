@@ -1,8 +1,140 @@
-<h1 align="center">Hi 👋, I'm Leonam</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonamlucas&label=Profile%20views&color=0e75b6&style=flat" alt="leonamlucas" /> </p>
+# Hi, I'm Leonam Lucas 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### Machine Learning Engineer · AI Systems · LLMs · MLOps
 
+I build **AI and Machine Learning systems that operate in production**.
 
-🚧 Profile under construction 🚧
+My work sits at the intersection of **Machine Learning, Software Engineering and Data Engineering** — from experimenting with models to designing APIs, data pipelines, deployment infrastructure and monitoring for real-world applications.
+
+Currently, I work as a **Machine Learning Engineer at Anova Investimentos**, where I develop AI systems used in day-to-day business operations.
+
+---
+
+## 🚀 What I work with
+
+* 🤖 **LLMs & Generative AI** — LLM applications, RAG, AI Agents, NLP
+* 🧠 **Machine Learning** — predictive modeling, classification, anomaly detection, time series
+* ⚙️ **ML Engineering** — model serving, REST APIs, production pipelines
+* ☁️ **Cloud & MLOps** — Microsoft Azure, Docker, CI/CD, deployment & monitoring
+* 📊 **Data Engineering** — PostgreSQL, SQL, Pandas, NumPy, Spark
+* 🐍 **Backend & APIs** — Python, FastAPI
+* 📈 **Financial ML** — predictive models and analytics applied to financial data
+
+---
+
+## 💼 Experience
+
+### Machine Learning Engineer — Anova Investimentos
+
+**Sep 2024 — Present**
+
+Building and operating AI systems for real-world business applications.
+
+* Designed and deployed **Orquestrador**, an AI platform that qualifies **1,500+ leads per day** and is used daily by **70+ salespeople**.
+* Built LLM, RAG and AI Agent solutions connected to documents, PostgreSQL, APIs and commercial/financial data.
+* Developed inference services and AI applications using **Python, FastAPI, Docker and Microsoft Azure**.
+* Implemented CI/CD pipelines for production deployment.
+* Automated LLM-powered report generation, reducing manual effort by **40%**.
+* Developed predictive and time-series models for financial applications, covering experimentation, validation, deployment and production monitoring.
+
+### Data Scientist — Sicoob
+
+**Jun 2023 — Sep 2024**
+
+* Developed Machine Learning solutions for **fraud detection** using ML, NLP and computer vision.
+* Worked with systems processing **millions of financial transactions daily**.
+* Built time-series models for balance forecasting and instant-payment planning.
+* Automated financial reporting using LLMs.
+
+### Backend Software Engineer — Landis+Gyr
+
+**Jun 2022 — Jun 2023**
+
+* Developed backend systems for global energy-management solutions.
+* Worked with international engineering teams.
+* Optimized database queries and operations, improving application response time by **30%**.
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
+
+**LLMs · RAG · AI Agents · NLP · Computer Vision · Time Series · Predictive Modeling**
+
+### Engineering & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,linux" />
+</p>
+
+**Python · FastAPI · REST APIs · PostgreSQL · SQL · Pandas · NumPy · Spark**
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,githubactions" />
+</p>
+
+**Microsoft Azure · Docker · CI/CD · Deployment · Monitoring**
+
+---
+
+## 📌 Selected Work
+
+### 🤖 Production AI Systems
+
+Designing AI applications that combine **LLMs, RAG, agents, structured data and APIs** to automate business workflows.
+
+### 📈 Financial Machine Learning
+
+Building predictive models and time-series systems for **financial analysis, risk and market-related applications**.
+
+### 🔎 Fraud Detection
+
+Machine Learning, NLP and computer vision applied to fraud detection in financial environments with **millions of daily transactions**.
+
+### ⚡ AI + Automation
+
+Turning manual analytical and operational workflows into **automated, production-grade systems**.
+
+---
+
+## 🎓 Education
+
+**Postgraduate — Data Science & Machine Learning**
+UniCEUB · 2023
+
+**B.Sc. — Computer Science**
+UniCEUB · 2019
+
+---
+
+## 🌎 Languages
+
+🇧🇷 Portuguese — Native
+🇺🇸 English — Fluent
+🇨🇳 Mandarin — Basic
+
+---
+
+## 📫 Connect with me
+
+<p align="left">
+  <a href="https://github.com/LeonamLucas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonamlcs">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems from prototype to production.</i>
+</p>
