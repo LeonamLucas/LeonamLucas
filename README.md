@@ -16,15 +16,8 @@
 ---
 
 ## 🚀 Sobre Mim
-Engenheiro de Machine Learning atuando end-to-end, da modelagem ao deployment em produção[cite: 1]. Foco em transformar protótipos de Inteligência Artificial em sistemas escaláveis que resolvem problemas reais de negócio[cite: 1]. 
+Engenheiro de Machine Learning atuando end-to-end, da modelagem ao deployment em produção. Foco em transformar protótipos de Inteligência Artificial em sistemas escaláveis que resolvem problemas reais de negócio. 
 
-## 🏆 Destaques de Impacto
-- **Sistemas Multi-Agentes em Produção:** Projetei e coloquei em produção o *Orquestrador*, uma plataforma de IA com LLMs e RAG que qualifica mais de **1.500 leads por dia**, utilizada diariamente por mais de 70 vendedores[cite: 1].
-- **Alta Escalabilidade & Segurança:** Implementei soluções de Machine Learning e NLP para detecção de fraudes em um ambiente que processa **milhões de transações diárias**[cite: 1].
-- **Eficiência e Automação:** Reduzi em **40%** o esforço manual necessário para a produção de análises internas através da automação de relatórios com LLMs[cite: 1].
-- **Otimização Backend:** Melhorei em **30%** o tempo de resposta da aplicação otimizando consultas em bancos de dados para soluções globais de gestão de energia[cite: 1].
-
----
 
 ## 🛠️ Stack Tecnológico
 
